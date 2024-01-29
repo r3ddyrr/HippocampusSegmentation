@@ -10,3 +10,5 @@ Achieved the following results (using dice loss):
 
 * Dice score: 0.8553
 * IoU: 0.747
+
+Dataset is [here](https://drive.google.com/file/d/1RzPB1_bqzQhlWvU-YGvZzhx2omcDh38C/view)
